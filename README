@@ -1,0 +1,10 @@
+# Juego de Amigo Secreto
+
+Este proyecto es un **juego de Amigo Secreto** que desarrolle como parte de un curso de programación en AluraLatam. Permite ingresar los nombres de los participantes para luego hacer el sorteo de forma aleatoria y mostrar los resultados uno por uno para mantener el secreto.
+
+# Funcionalidades
+
+Agregar una cantidad ilimitada de nombres.
+Evita agregar nombres duplicados.
+Realiza un sorteo completamente aleatorio.
+ Asegura que nadie se asigne a sí mismo.
